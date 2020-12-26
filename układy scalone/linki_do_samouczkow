@@ -1,0 +1,17 @@
+
+jeden z klimatyzatorów miał tylko diody bez wyświetlacza a po usunięciu orginalnego pilota chciałem znać ustawienia. 
+
+
+Wyświetlacz 4 Cyfrowy LED TM1637 Arduino 7 Segment
+https://create.arduino.cc/projecthub/ryanchan/tm1637-digit-display-arduino-quick-tutorial-ca8a93
+
+wielozadaniowość 
+
+https://forbot.pl/blog/kurs-arduino-ii-wielozadaniowosc-opoznienia-z-millis-id18418
+
+sygnał dzwiękowy piezo .  problem jest że jest zajęty timer przez pilot  więc tylko dla zdobycia wiedzy. 
+w klimatyzatorze jest piezo bez generatora. są 2 opcje zostawić jak mam to będą ciche trzaski albo zmienić kod i wstawić piezo z generatorem. 
+a zaawansowani to wiedzą lepiej odemnie :)
+
+https://forbot.pl/blog/kurs-arduino-ii-syrena-alarmowa-mosfet-w-praktyce-id15497
+
